@@ -1,0 +1,21 @@
+{
+    "version": "0.2",
+    "ignorePaths": [
+        "node_modules",
+        "composer.json",
+        "composer.lock",
+        "package-lock.json",
+        "package.json",
+        "phpunit.xml",
+        "phpunit.xml.dist",
+        "forj.code-workspace"
+    ],
+    "dictionaryDefinitions": [],
+    "dictionaries": [],
+    "words": [
+        "forj",
+        "phpunit"
+    ],
+    "ignoreWords": [],
+    "import": []
+}
