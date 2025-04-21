@@ -59,6 +59,11 @@
         ],
         "sail": [
             "bash vendor/bin/sail"
+        ],
+        "test:coverage": "XDEBUG_MODE=coverage ./vendor/bin/pest --coverage",
+        "test:type-coverage": "pest --type-coverage --min=100",
+        "test": [
+            "@test:type-coverage"
         ]
     },
     "extra": {
