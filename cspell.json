@@ -15,7 +15,9 @@
     "words": [
         "forj",
         "laravel",
-        "phpunit"
+        "phpunit",
+        "nesbot",
+        "larastan"
     ],
     "ignoreWords": [],
     "import": []
